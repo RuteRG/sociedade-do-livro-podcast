@@ -18,7 +18,7 @@ Uma leitura crítica e sensível da obra *O Galinheiro*, de Amaurício Lopes —
 
 ---
 
-📌 Projeto desenvolvido como parte do curso **Fundamentos de IA Generativa – Santander Universia + DIO**
+📌 Projeto desenvolvido como parte do curso **Universia - Fundamentos de IA Generativa + DIO**
 
 ## 🔊 Episódio publicado!
 
