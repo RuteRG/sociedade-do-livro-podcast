@@ -19,3 +19,11 @@ Uma leitura crítica e sensível da obra *O Galinheiro*, de Amaurício Lopes —
 ---
 
 📌 Projeto desenvolvido como parte do curso **Fundamentos de IA Generativa – Santander Universia + DIO**
+
+## 🔊 Episódio publicado!
+
+🎙️ Acabei de publicar meu primeiro episódio do podcast *Sociedade do Livro*!  
+📚 Neste episódio, mergulhamos na obra *O Galinheiro*, de Amaurício Lopes — uma reflexão sobre poder, silêncio e justiça.  
+🔗 Ouça agora no YouTube: [Renha de O Galinheiro de Amaurício Lopes](https://www.youtube.com/watch?v=jtKFhE_qQag&t=6s)  
+💡 Projeto desenvolvido como parte do curso *Fundamentos de IA Generativa – Santander Universia + DIO*  
+#Podcast #Literatura #IA #SociedadeDoLivro #AmaurícioLopes
